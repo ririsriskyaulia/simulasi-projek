@@ -6,4 +6,5 @@ int main(){
 	
 	cout<<"HAI SEMWUA";
 	cout<<"hi";
+	cout<<"hi juga";
 }
