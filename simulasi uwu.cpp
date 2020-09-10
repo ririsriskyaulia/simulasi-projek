@@ -6,7 +6,7 @@ int main(){
 	
 	cout<<"HAI SEMWUA";
 <<<<<<< HEAD
-	cout << "werwererwerwer";
+	cout << "werwererwerwerrr";
 =======
 	cout<<"hi";
 	cout<<"hi juga";
